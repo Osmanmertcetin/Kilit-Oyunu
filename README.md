@@ -1,6 +1,6 @@
 # Kilit-Oyunu
-Kilit oyunu 2 kişi ile oynanan bir strateji oyunudur. Oyun alanı, 8X8 boyutlarındadır ve 64 kareden 
-oluşmaktadır. Oyunda 2 oyuncunun da 8’er taşı bulunmaktadır. Oyunun amacı, rakibin bütün 
+Kilit oyunu 2 kişi ile oynanan bir strateji oyunudur. Oyun alanı, 8X8 veya 4x4 boyutlarındadır.
+Oyunda 2 oyuncunun da oyun alanı seçimine göre 8’er veya 4'er taşı bulunmaktadır. Oyunun amacı, rakibin bütün 
 taşlarını dışarı çıkarmaktır.
 
 Oyun başlangıcında oyuncular taşlarını kendilerine en yakın satırdaki karelere yerleştirirler. Daha 
