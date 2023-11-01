@@ -12,3 +12,5 @@ Yataydaki 2 komşu karesinde rakip taş yer alan bir taş, dikeydeki 2 komşu ka
 alan bir taş veya yataydaki ve dikeydeki komşu karelerinde rakip taş yer alan köşedeki bir taş 
 kilitlenmiş sayılır. Sırası gelen oyuncu, yaptığı hamle sonucunda rakip oyuncunun bir taşını 
 kilitlerse o taşı dışarı çıkarır. Rakibin tüm taşlarını dışarı çıkarmayı başaran oyuncu oyunu kazanır.
+
+Oyunun Örnek Videosu: https://www.youtube.com/watch?v=GxulU4jEP_s
